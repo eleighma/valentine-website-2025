@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WAOWWWW  That's a lot!!! 🥰💕",  // Shows when they go past 5000%
+        high: "Okie, now we're talking! ❤️",              // Shows when they go past 1000%
+        normal: "Rookie numbers, to be honest."                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
